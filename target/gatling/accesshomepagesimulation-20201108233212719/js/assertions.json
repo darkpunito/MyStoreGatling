@@ -1,0 +1,10 @@
+{
+  "simulation": "MyStore.AccessHomePageSimulation",
+  "simulationId": "accesshomepagesimulation",
+  "start": 1604878332719,
+  "description": "",
+  "scenarios": ["Access Home Page"],
+  "assertions": [
+
+  ]
+}
